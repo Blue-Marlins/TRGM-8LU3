@@ -6,9 +6,9 @@ author = "Treendy";
 OnLoadName = "TRGM 2.0 Malden";
 OnLoadmission = "TRGM 2";
 OnLoadIntro = $STR_TRGM2_Description_OnLoadIntro;
-loadScreen = "TRGM2OverviewPic2.jpg";
+loadScreen = "";
 overviewText = $STR_TRGM2_Description_overviewText;
-overviewPicture = "TRGM2OverviewPic2.jpg";
+overviewPicture = "";
 
 disabledAI=0;
 joinUnassigned = 1;
